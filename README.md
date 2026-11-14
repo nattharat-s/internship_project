@@ -8,8 +8,8 @@
 ![Data Pipeline](https://github.com/nattharat-s/internship_project/blob/main/pics/pipeline.png?raw=true)
 
 ## Dimensional Model
-![Dimensional Model](https://github.com/nattharat-s/internship_project/pics/blob/main/pics/dim_model.png?raw=true)
+![Dimensional Model](https://github.com/nattharat-s/internship_project/blob/main/pics/dim_model.png?raw=true)
 
 ## Workflow Orchestration
 collect process log id > process Dimension tables > process Fact tables
-![DAGs](https://github.com/nattharat-s/internship_project/pics/blob/main/pics/DAGs.png?raw=true)
+![DAGs](https://github.com/nattharat-s/internship_project/blob/main/pics/DAGs.png?raw=true)
