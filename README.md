@@ -13,5 +13,4 @@
 ## Workflow Orchestration
 DAGs in Apache Airflow run every 30 minutes \
 collect process log id > process Dimension tables > process Fact tables \
-
 ![DAGs](https://github.com/nattharat-s/internship_project/blob/main/pics/DAGs.png?raw=true)
