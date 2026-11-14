@@ -1,4 +1,4 @@
-## Example of Dashboards from internship project
+# Example of Dashboards from internship project
 [Dashboards Website](https://nattharat-s.github.io/internship_project/operation.html)
 
 # Data Pipeline
