@@ -1,6 +1,6 @@
 # Development of Executive Reporting Dashboards
 ## Objective
-Made Operation, Inventory, Purchase, HR, Asset and Maintenance Dashboards
+The objective of this project was to develope Operation, Inventory, Purchase, HR, Asset and Maintenance Dashboards
 
 ## Procedure
 - Developed an automated ETL pipeline project using Python, SQL, and Apache Airflow to extract operational data from Odoo ERP (PostgreSQL), transforming and loading it into ClickHouse.
