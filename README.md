@@ -8,13 +8,13 @@ The objective of this project was to develope Operation, Inventory, Purchase, HR
 - Designed and embedded interactive Power BI dashboards into web pages based on user requirements.
 - [Example of Dashboards Website](https://nattharat-s.github.io/internship_project/operation.html)
 
-## Data Pipeline
+### Data Pipeline
 ![Data Pipeline](https://github.com/nattharat-s/internship_project/blob/main/pics/pipeline.png?raw=true)
 
-## Dimensional Model
+### Dimensional Model
 ![Dimensional Model](https://github.com/nattharat-s/internship_project/blob/main/pics/dim_model.png?raw=true)
 
-## Workflow Orchestration
+### Workflow Orchestration
 DAGs in Apache Airflow run every 30 minutes \
 collect process log id > process Dimension tables > process Fact tables 
 
