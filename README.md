@@ -11,7 +11,7 @@
 ![Dimensional Model](https://github.com/nattharat-s/internship_project/blob/main/pics/dim_model.png?raw=true)
 
 ## Workflow Orchestration
-DAGs in Apache Airflow run every 30 minutes.
+DAGs in Apache Airflow run every 30 minutes. /n/
 collect process log id > process Dimension tables > process Fact tables
 
 ![DAGs](https://github.com/nattharat-s/internship_project/blob/main/pics/DAGs.png?raw=true)
